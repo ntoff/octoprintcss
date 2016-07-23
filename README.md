@@ -4,3 +4,5 @@ css overrides for octoprint, more or less my own personal thing to change the co
 To use the script, first get your octoprint version from the bottom of the octoprint page then add execute this script with that version. i.e. ./octoverride.sh 1.2.11.dev35+ge79703b
 
 navbaroverride.sh is for the navbar temperature plugin
+
+note: Make sure you set the correct path to octoprint's data files (one in each bash script)
